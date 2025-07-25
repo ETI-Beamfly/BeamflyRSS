@@ -9,18 +9,18 @@
     <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
     <ttl>60</ttl>
     <item>
-      <title>v1.0.0</title>
-      <link></link>
-      <description>First version of Beamfly for Network Operations deployed.</description>
-      <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
-      <guid>000000002</guid>
-    </item>
-    <item>
       <title>Initial Post</title>
       <link></link>
       <description>Initial Test Update for RSS Feed.</description>
       <pubDate>Thu, 12 Jun 2025 12:00:00 +0000</pubDate>
       <guid>000000001</guid>
+    </item>
+    <item>
+      <title>v1.0.0</title>
+      <link></link>
+      <description>First version of Beamfly for Network Operations deployed.</description>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 +0000</pubDate>
+      <guid>000000002</guid>
     </item>
   </channel>
 </rss>
